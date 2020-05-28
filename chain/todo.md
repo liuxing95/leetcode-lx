@@ -6,4 +6,5 @@
 https://leetcode-cn.com/problems/reverse-linked-list/
 ✅ 面试题 02.07. 链表相交 https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/  
 ✅ 面试题 02.02. 返回倒数第 k 个节点 https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci/
-83. 删除排序链表中的重复元素 https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
+✅ 83. 删除排序链表中的重复元素 https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
+✅ 21. 合并两个有序链表 https://leetcode-cn.com/problems/merge-two-sorted-lists/
