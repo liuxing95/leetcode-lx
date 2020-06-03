@@ -25,5 +25,17 @@
  * @return {string[]}
  */
 var buildArray = function(target, n) {
-
+  let index = 0;
+    let curIndex = 0;
+    let ans = [];
+    while (index < target[target.length - 1]) {
+        if (target[curIndex] == index+1) {
+            curIndex++;
+            ans.push("Push");
+        } else {
+            ans.push("Push", "Pop");
+        }
+        index++;
+    }
+    return ans
 };
