@@ -21,7 +21,7 @@
 ✅ 面试题35. 复杂链表的复制   https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
 ⌛️ 1171. 从链表中删去总和值为零的连续节点   https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
 ⌛️ 109. 有序链表转换二叉搜索树  https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/
-⌛️ 138. 复制带随机指针的链表    https://leetcode-cn.com/problems/copy-list-with-random-pointer/
+✅ 138. 复制带随机指针的链表    https://leetcode-cn.com/problems/copy-list-with-random-pointer/
 ⌛️ 面试题 02.04. 分割链表      https://leetcode-cn.com/problems/partition-list-lcci/
 ⌛️ 面试题 02.08. 环路检测      https://leetcode-cn.com/problems/linked-list-cycle-lcci/
 ⌛️ 328. 奇偶链表              https://leetcode-cn.com/problems/odd-even-linked-list/
