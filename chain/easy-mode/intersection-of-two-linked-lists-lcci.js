@@ -6,7 +6,7 @@ https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/
  *     this.next = null;
  * }
  */
-const { List } = require('../lib/linked.js')
+const { List } = require('../../lib/linked.js')
 var listA = [4,1,8,4,5], listB = [5,0,1,8,4,5]
 function generateLine(str) {
   const strList = new List()

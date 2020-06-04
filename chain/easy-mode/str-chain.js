@@ -1,5 +1,5 @@
 
-const { List } = require('../lib/linked.js')
+const { List } = require('../../lib/linked.js')
 
 function generateLine(str) {
   const head = new List()

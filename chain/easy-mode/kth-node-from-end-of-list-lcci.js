@@ -1,6 +1,6 @@
 // 返回倒数第n个节点
 // 创造两个指针 让第一个先走n步 之后 两个一起走
-const { List } = require('../lib/linked.js')
+const { List } = require('../../lib/linked.js')
 var listA = [1]
 
 function generateLine(str) {
