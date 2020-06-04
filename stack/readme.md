@@ -14,7 +14,7 @@
 
 
 🀄️等难度 + 复杂
-⌛️ 636. 函数的独占时间    https://leetcode-cn.com/problems/exclusive-time-of-functions/
+✅ 636. 函数的独占时间    https://leetcode-cn.com/problems/exclusive-time-of-functions/
 ⌛️ 456. 132模式    https://leetcode-cn.com/problems/132-pattern/
 ⌛️ 880. 索引处的解码字符串  https://leetcode-cn.com/problems/decoded-string-at-index/
 ⌛️ 735. 行星碰撞    https://leetcode-cn.com/problems/asteroid-collision/
