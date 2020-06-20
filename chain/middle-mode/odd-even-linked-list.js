@@ -38,7 +38,6 @@ var oddEvenList = function(head) {
   let odd = dummyHead1.next
   let even = dummyHead2.next
   while(odd && odd.next && even && even.next) {
-    debugger
     const oddNext = odd.next.next
     const evenNext = even.next.next
 

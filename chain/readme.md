@@ -19,13 +19,6 @@
 
 🀄️等难度
 ✅ 面试题35. 复杂链表的复制   https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
-⌛️ 1171. 从链表中删去总和值为零的连续节点   https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
-⌛️ 109. 有序链表转换二叉搜索树  https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/
 ✅ 138. 复制带随机指针的链表    https://leetcode-cn.com/problems/copy-list-with-random-pointer/
-⌛️ 面试题 02.04. 分割链表      https://leetcode-cn.com/problems/partition-list-lcci/
-⌛️ 面试题 02.08. 环路检测      https://leetcode-cn.com/problems/linked-list-cycle-lcci/
-⌛️ 328. 奇偶链表              https://leetcode-cn.com/problems/odd-even-linked-list/
-⌛️ 142. 环形链表 II           https://leetcode-cn.com/problems/linked-list-cycle-ii/
-⌛️ 1367. 二叉树中的列表        https://leetcode-cn.com/problems/linked-list-in-binary-tree/
-⌛️ 82. 删除排序链表中的重复元素 II   https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/
-⌛️ 25. K 个一组翻转链表        https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
+✅ 328. 奇偶链表    https://leetcode-cn.com/problems/odd-even-linked-list/
+✅ 面试题 02.04. 分割链表   https://leetcode-cn.com/problems/partition-list-lcci/
