@@ -22,4 +22,5 @@
 ✅ 138. 复制带随机指针的链表    https://leetcode-cn.com/problems/copy-list-with-random-pointer/
 ✅ 328. 奇偶链表    https://leetcode-cn.com/problems/odd-even-linked-list/
 ✅ 面试题 02.04. 分割链表   https://leetcode-cn.com/problems/partition-list-lcci/
-两两交换链表中的节点  https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+✅ 两两交换链表中的节点  https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+✅ 148. 排序链表  https://leetcode-cn.com/problems/sort-list/
