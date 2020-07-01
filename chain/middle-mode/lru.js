@@ -73,7 +73,7 @@ LRUCache.prototype.put = function(key, value) {
   const newNode = new LinkNode(key,value);
   //  如果key已经存在，则变更其值
   if (this.map.get(key)) {
-    this.doubleLinkedList.refreshList(newNode)
+    this.doubleLinkedList.refreshList(this.map.get(key))
     return this.map.get(key).value = value;
   }
 
@@ -92,14 +92,11 @@ LRUCache.prototype.put = function(key, value) {
 }
 
 
-var lrudemo = new LRUCache(10000)
+const cache = new LRUCache( 2 );
 
-for (let i = 0; i < 100000; i++) {
-  lrudemo.put(i, {
-    key: i,
-    value: i
-  });
-}
-console.log(lrudemo)
-
-console.log(lrudemo.get(90000))
+cache.put(2, 1);
+cache.put(2, 2);
+console.log(cache.get(2));
+cache.put(1, 1);
+cache.put(4, 1); 
+console.log(cache.get(2));
