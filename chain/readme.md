@@ -25,6 +25,6 @@
 ✅ 两两交换链表中的节点  https://leetcode-cn.com/problems/swap-nodes-in-pairs/
 ✅ 148. 排序链表  https://leetcode-cn.com/problems/sort-list/
 ✅ 2. 两数相加  https://leetcode-cn.com/problems/add-two-numbers/
-19. 删除链表的倒数第N个节点  https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
-
+✅ 19. 删除链表的倒数第N个节点  https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
+✅ 61. 旋转链表  https://leetcode-cn.com/problems/rotate-list/
 ✅ LRU 实现（Least recently used，最近最少使用）
