@@ -7,3 +7,4 @@
 ✅ 98. 验证二叉搜索树  https://leetcode-cn.com/problems/validate-binary-search-tree/
 ✅ 108. 将有序数组转换为二叉搜索树  https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/
 ✅ 112. 路径总和  https://leetcode-cn.com/problems/path-sum/
+✅ 101. 对称二叉树  https://leetcode-cn.com/problems/symmetric-tree/
