@@ -139,5 +139,5 @@ function printNode(value){ //{16}
 }
 // graph.bfs(myVertices[0], printNode); //{18}
 
-// console.log(graph.BFS(myVertices[0]))
-graph.dfs(printNode);
+console.log(graph.BFS(myVertices[0]))
+// graph.dfs(printNode);
